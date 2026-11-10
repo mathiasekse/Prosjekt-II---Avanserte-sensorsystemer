@@ -1,0 +1,6 @@
+x avvik : konstant ca +-1 cm fra midten. (2 cm gap)
+
+20 cm: +-4 cm
+40 cm: +-4 cm
+60 cm: +-4 cm
+
